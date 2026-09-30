@@ -1,0 +1,2 @@
+domain.example.abc
+# ModuleProtector/zapret-telegram 6abf6b7a6153
